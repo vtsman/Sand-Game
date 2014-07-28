@@ -1,3 +1,4 @@
+package com.ajmvts.sandgame;
 
 public class Main 
 {
